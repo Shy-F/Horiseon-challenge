@@ -1,8 +1,8 @@
 # Code Refactor Starter Code
-# urban-octo-telegram
+*code was modified to fit the criteria of the challenge.
+
 # Horiseon-challenge
 
-html code was modified using best practice and more organziation techniques
-link on the html were updated to work on the site
+*For this challenge html code was clean up following best practices and organization techniques. Links on the site are now accesible. Images now have alt attributes.
 
-css was consolidated and updated to match html
+*css code was consolidated and updated to match html. Also reorganized the style order to match html code and adding comments to make it more readable to the user. root function was used to get a clear understanding of repeated colors.
